@@ -10,7 +10,7 @@
 
 <section class="listings" id="listings"> <h2>Featured Properties</h2> <div class="property-card"> <h3>3-Bed Apartment in DHA</h3> <p>PKR 2.5 Crore · Secure, modern, and legally verified</p> <button>View Details</button> </div> <div class="property-card"> <h3>Commercial Plot in Gulshan</h3> <p>PKR 5 Crore · Prime location with full documentation</p> <button>View Details</button> </div> </section>
 
-<section id="contact"> <h2>Contact Us</h2> <form> <input type="text" placeholder="Your Name" required> <input type="email" placeholder="Your Email" required> <textarea placeholder="Your Message"></textarea> <button type="submit">Send Message</button> </form> <p>📞 Tel: 92-21-35169562, 92-21-35169563</p> <p>📱 Cell: 92-321-8204371 Karim</p> <p>📧 Email: <a href="mailto:tajenterprises.realtors@gmail.com">tajenterprises.realtors@gmail.com</a></p> <p>🏢 Address: Suite #704, Horizon Tower, Plot #216, Block 3, Clifton Karachi-75600</p> </section>
+<section id="contact"> <h2>Contact Us</h2> <form> <input type="text" placeholder="Your Name" required> <input type="email" placeholder="Your Email" required> <textarea placeholder="Your Message"></textarea> <button type="submit">Send Message</button> </form> <p>📞 Tel: 92-21-35169562, 92-21-35169563</p> <p>📱 Cell: 92-321-8204371 Karim Mevawalla</p> <p>📱 Cell: 92-321-2429589 Amir Mevawalla</p> <p>📧 Email: <a href="mailto:tajenterprises.realtors@gmail.com">tajenterprises.realtors@gmail.com</a></p> <p>🏢 Address: Suite #704, Horizon Tower, Plot #216, Block 3, Clifton Karachi-75600</p> </section>
 
 <footer> <p>© 2025 Taj Enterprises. All rights reserved.</p> </footer>
 
